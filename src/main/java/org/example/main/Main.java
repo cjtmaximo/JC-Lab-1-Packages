@@ -1,8 +1,8 @@
-package org.example.LabPackages.main;
+package org.example.main;
 
-import org.example.LabPackages.packageone.ClassOne;
-import org.example.LabPackages.packagetwo.ClassTwo;
-import org.example.LabPackages.packagethree.ClassThree;
+import org.example.packageone.ClassOne;
+import org.example.packagetwo.ClassTwo;
+import org.example.packagethree.ClassThree;
 
 import static java.lang.System.out;
 

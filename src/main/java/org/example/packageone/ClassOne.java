@@ -1,4 +1,4 @@
-package org.example.LabPackages.packageone;
+package org.example.packageone;
 
 public class ClassOne {
     public String greet() {
